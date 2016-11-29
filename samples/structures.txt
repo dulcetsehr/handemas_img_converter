@@ -1,0 +1,28 @@
+CR = bitrate
+CT = color type
+CP = compress type
+FT = filter type
+IR = interaced
+
+
+           P N G           IHDRLTH  I H D R  width    height   BRCTCPFT IR CRC       PLTELNG  P L T  E
+normal1  89504E47 0D0A1A0A 0000000D 49484452 00000244 00000189 08030000 00/5CA0DC 9F/000000 C0504C54 45
+           P N G           IHDRLTH  I H D R  width    height   BRCTCPFT IR CRC       PLTELNG  P L T  E
+normal2  89504E47 0D0A1A0A 0000000D 49484452 0000000A 0000000A 08030000 00/BAEC3F 8F/000000 06504C54 45
+           P N G           IHDRLTH  I H D R  width    height   BRCTCPFT IR CRC       PLTELNG  P L T  E
+normar3  89504E47 0D0A1A0A 0000000D 49484452 00000005 00000010 08030000 00/E9AA45 FF/000000 C0504C54 45
+
+
+           P?N?G?                   I?H?D?R? width?   height?                                               CRC?              P L T E
+1203001  11C8D6DF 95928292 98989895 D1D0DCCA 98989A18 98989BB8 909B9898 981CE0BB D3989898 9BEBDAD1 CC909090 4379D778 98980300 504C5445
+
+           P?N?G?                   I?H?D?R? width?   height?                                               CRC?              P L T E
+1203101  03DAC4CD 87809080 8A8A8A87 C3C2CED8 8A8A880A 8A8A89AA 82898A8A 8A0EF2A9 C18A8A8A 89F9C8C3 DE828282 516BC56A 8A8A0300 504C5445
+           P?N?G?                   I?H?D?R? width?   height?                                               CRC?              P L T E
+1203102  DA031D14 5E594959 5353535E 1A1B1701 535351D3 53535073 5B505353 53D72B70 18535353 5020111A 075B5B5B 88B21CB3 53530300 504C5445
+           P?N?G?                   I?H?D?R? width?   height?                                               CRC?              P L T E
+1203103  8F564841 0B0C1C0C 0606060B 4F4E4254 06060486 06060526 0E050606 06827E25 4D060606 0575444F 520E0E0E DDE749E6 06060300 504C5445
+           P?N?G?                   I?H?D?R? width?   height?                                               CRC?              P L T E
+1303002  74ADB3BA F0F7E7F7 FDFDFDF0 B4B5B9AF FDFDFF7D FDFDFEDD F5FEFDFD FD7985DE B6FDFDFD FE8EBFB4 A9F5F5F5 261CB21D FDFD0300 504C5445
+           P?N?G?                   I?H?D?R? width?   height?                                               CRC?              P L T E
+2001801  1CC5DBD2 989F8F9F 95959598 DCDDD1C7 95959715 959596B5 9D969595 9511EDB6 DE959595 96E6D7DC C19D9D9D 4E74DA75 95950300 504C5445
